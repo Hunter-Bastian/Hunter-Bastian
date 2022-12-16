@@ -1,4 +1,4 @@
-### A pair of projects built to emulate operating system memory handling. Page Allocation takes in a number of page base values and page sizes and creates a memory map with the given integer values. Seek Time emulates HDD access optimization with given integer values representing cylinder numbers and arm position. 👋
+### A repository showcasing prior projects
 
 <!--
 **Hunter-Bastian/Hunter-Bastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
