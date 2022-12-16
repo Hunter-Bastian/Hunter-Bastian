@@ -1,4 +1,4 @@
-### Hi there 👋
+### A repository showcasing prior projects
 
 <!--
 **Hunter-Bastian/Hunter-Bastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
