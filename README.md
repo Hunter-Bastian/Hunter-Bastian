@@ -1,4 +1,4 @@
-### A repository showcasing prior projects
+### A repository showcasing certificates as well as programming and scripting projects
 
 <!--
 **Hunter-Bastian/Hunter-Bastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
